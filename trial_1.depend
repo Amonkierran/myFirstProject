@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\desktop\c language\trial_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1729079610 source:c:\users\user\desktop\c language\trial_1\try.c
+	<stdio.h>
+
+1729080915 source:c:\users\user\desktop\c language\trial_1\chatgpt.c
+	<stdio.h>
+
